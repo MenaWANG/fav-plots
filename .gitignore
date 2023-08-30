@@ -1,6 +1,20 @@
-.devlog/
-.venv/
+
 *cache*/
 *egg-info*/
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+.eggs/
+*.egg
+
+# Virtual environments
+venv/
+.venv/
+env/
+.env/
+ENV/
+.devlog/
 
 
