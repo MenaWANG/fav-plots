@@ -11,6 +11,9 @@ authors = [
 description = "package to make some favourite plots"
 readme = "README.md"
 requires-python = ">=3.10"
+dependencies = [
+    "plotnine >= 0.10.0"
+]
 classifiers = [
     "Programming Language :: Python :: 3",
     "License :: OSI Approved :: MIT License",
